@@ -1,0 +1,9 @@
+C:\Users\pc\AppData\Local\Temporary Projects\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\pc\AppData\Local\Temporary Projects\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\pc\AppData\Local\Temporary Projects\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\pc\AppData\Local\Temporary Projects\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\pc\AppData\Local\Temporary Projects\Perceptron\obj\Debug\Perceptron.pdb
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
